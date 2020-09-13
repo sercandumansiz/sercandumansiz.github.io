@@ -1,4 +1,4 @@
-body { font-family: 'Montserrat', sans-serif; margin: unset; background-color: var(--main-background-color)}
+body { font-family: 'Nunito Sans', sans-serif; margin: unset; background-color: var(--main-background-color)}
 
 .container {
     display:flex;
@@ -118,4 +118,9 @@ blockquote {
 }
 blockquote p {
     padding: 1rem;
+}
+
+.post .title {
+    font-weight: 800;
+    font-size: xxx-large;
 }
