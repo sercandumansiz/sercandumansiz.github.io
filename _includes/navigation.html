@@ -8,4 +8,14 @@
     </ul>
 
      <button class="toggle" id="theme-toggle" onclick="modeSwitcher()">light</button>
+
+     <ul>
+        {% for item in site.data.socials.links %}
+            <li class="social">
+                <a target="_blank" href="{{ item.url }}">
+                    <img src="/assets/images/{{item.title}}.svg">
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
 </nav>
