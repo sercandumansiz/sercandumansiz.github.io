@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Hi"
+date:   2020-09-13 20:20:00 +0300
+categories: me
+---
+
+This is my first blog post to introduce you my new blog.
+
+After various of blog try I'm here.
+
+#### Why I created a new blog?
+
+Maybe some of you know, I write in English and Turkish. I was sharing English posts under my own blog. For Turkish posts I was using Medium platform.
+
+The first thing that I decide, I'll not continue to write in Turkish and I'll only publish posts under my own blog. 
+
+The second is I was using different themes, I decided to design my blog and not to use themes.
+
+The third one is I'll share a road map with you to what I'm going to write about. (I'll add link soon.) 
+I was writing so long articles and also doing demos. Instead of doing demos, I'll share GitHub repositories and If one of my blog post is going to be a long(will describe it) I'll seperate that topic to part by part.
+
+My blog is not fully ready but I'll continue to write and improve this blog. We can think that September and October 2020 is open beta of my blog.
+
+I'll not just share technical blog posts, I'll also start to write about my thoughts.
+
+I'll share about what I'm reading, watching etc.
+
+I'll refactor and publish my old blog posts very soon.
+
+This is kind of TO-DO and NOT-TO-DO list for me right now.
+
+I can improve this but for now thats what going to happen.
+
+Cheers!
+

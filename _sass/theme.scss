@@ -73,6 +73,10 @@ main section ul {
     margin: 0;
 }
 
+.post h1, .page h1{
+    margin: 0;
+}
+
 html, html[data-theme="light"] {
   --light-text-color: hsl(0, 0%, 35%);
   --main-background-color: hsl(0, 5%, 95%);
@@ -95,3 +99,23 @@ html[data-theme="dark"] {
       content: "dark";
     }
 }   
+
+img[src*='#left'] { 
+    float: left;
+}
+img[src*='#right'] { 
+    float: right;
+}
+img[src*='#center'] { 
+    display: block; 
+    margin: auto; 
+}
+
+blockquote {
+    padding: unset;
+    margin: unset;
+    border-left:0.25rem solid var(--main-text-color);
+}
+blockquote p {
+    padding: 1rem;
+}

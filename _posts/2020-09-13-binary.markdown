@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "Binary 1's and 0's"
+date:   2020-09-13 20:30:00 +0300
+categories: computer-science
+---
+
+## Daily Life Numeric System
+
+In our dailly life, we mostly use denary number system (base-10) and this number system uses ten(10) digits which are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+When we write 10 on the paper there is a calculation behind it to make it's value **"ten"**.
+
+    1        0
+    
+**1** * 10^1 + **0** * 10^0
+
+Basically there are digits and their values based on the number system. Each number system has capacity to use symbols.
+
+Let's have a look.
+
+![number systems](/assets/images/number-systems.png "number systems")
+
+In this table I highlighted numbers which are capacity of number systems.
+
+For example,
+
+HEX(base-16) has *16* symbols.
+
+BINARY(base-2) has *2* symbols.
+
+OCTAL(base-8) has *8* symbols.
+
+DECIMAL(base-10) has *10* symbols.
+
+Whic means, the value of our(daily life) "ten" is different on each number systems.
+
+ten(10) is **A** on *base-16* number system.
+ten(10) is **1010** on *base-2* number system.
+
+What we are doing actually is **convert** between number systems.
+
+><p><a><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Year_2038_problem.gif" alt="Year 2038 problem.gif"></a> Year 2038 problem.</p>
+
+Long story short these are just symbols that we are using for understand the 'system' around us.
+
+![phytagoras](/assets/images/phytagoras.jpg "phytagoras
+")
+>“Number rules the universe.” **Phytagoras**
+
+## Why Computers Use 1's and 0's?
+
+To understand the reason behind why computers use binary system we need to know about the Atanasoff-Berry Computer (ABC) and the ENIAC.
+
+According to [Computer History Museum](https://www.computerhistory.org/timeline/), the Atanasoff-Berry Computer (ABC) compeleted in 1942.
+
+![Atanasoff-Berry Computer (ABC)](/assets/images/abc.png "Atanasoff-Berry Computer (ABC)")
+
+
+In 1946, ENIAC unveiled publicly.
+
+![ENIAC](/assets/images/eniac.png "ENIAC")
+
+There is a difference between these computer's number systems. 
+
+ABC has binary system and ENIAC has decimal system. Both computers were using vacuum tubes.
+
+![vacuum tubes](/assets/images/vacuum-tube.png "vacuum tubes")
+
+Vacuum tubes were the first electronic mechanism to represent digits. 
+
+![](/assets/images/eniac.gif)
+
+So, let's have a look what's the difference between binary and decimal numeric systems while using vacuum tubes.
+
+For example, let's try to store the value of 128.
+
+#### ENIAC - decimal(base-10) numeric system
+
+![](/assets/images/eniac-vacuum.png)
+
+As you can see, we need a 30 vacuum tubes to store the value of 128 and we need to switch on 11 tubes.
+
+#### ABC - binary(base-2) numeric system
+
+![](/assets/images/abc-vacuum.png)
+
+In binary numeric system we just need one vacuum tube switch on.
+
+There is no doubt binary system is more efficient.
+
+There is a word that we are using to describe the smallest unit of data in computers a.k.a **bit** (Binary digIT).
+
+## bit
+
+1bit stores just a 1 or 0.
+
+1 means switch on / true
+
+0 means switch off / false
+
+What I mean by switch on / switch off is more understandable with transistors.
+
+### transistor
+
+We know that early computers were using vacuum tubes to represent digits.
+
+![](/assets/images/first-transistor.png)
+
+After vacuum tubes, the transistor was successfully demonstrated on December 23, 1947 at Bell Laboratories in Murray Hull, New Jersey. Bell Labs is the research arm of American Telephone and Telegraph (AT&T). 
+
+So how transistors switch on and switch off is described below.
+
+![](/assets/images/transistor.png)
+![](/assets/images/transistor-switches.png)
+
+Basically these transistors's switch on and switch off to represent digits and more.
+
+### TODO: THERE WILL BE A 2 PART OF THIS ARTICLE AND I'LL ADD ROAD MAP FOR THIS ARTICLE SERIES
+
