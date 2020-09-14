@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Operating Systems"
-date:   2020-09-15 00:00:00 +0300
+date:   2020-09-15 00:30:00 +0300
 categories: operating-systems
 ---
 
