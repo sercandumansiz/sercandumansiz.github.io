@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "collective consciousness"
+title:  "Collective Consciousness"
 date:   2020-09-27 17:30:00 +0300
 categories: the-system
 ---
