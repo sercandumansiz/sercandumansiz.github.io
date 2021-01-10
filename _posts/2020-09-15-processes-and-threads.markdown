@@ -6,19 +6,15 @@ categories: operating-systems
 ---
 # Process
 
-Process is a running instance of a program. Which means that a code that we wrote is executed and has a store on memory is a process.
+Process is a running instance of a program. Which means, codes that we wrote are executed and has a space on memory is a process.
 
-Program Counter(PC)
+* Program Counter(PC)
 
-Registers
+* Registers
 
-Execution Flags
+* Execution Flags
 
-Stack
-
-( TODO: bullets )
-
-
+* Stack
 
 TEXT
 
