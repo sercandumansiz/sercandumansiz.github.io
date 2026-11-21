@@ -1,4 +1,5 @@
 {
   "title": "My blog",
-  "default-language": "en"
+  "default-language": "en",
+  "font": "sans"
 }
